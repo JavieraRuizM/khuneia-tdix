@@ -5,28 +5,12 @@ Aqui encontrarás los archivos de fabricación de corte láser
 
 ## Tablero
 
-### Tableros laterales
-
-
  <div>
 <p style = 'text-align:center;'>
 <img src="../imagenes/4.jpg" 
 width="500px">
 </p>
 </div>
-
-[estructura de los tableros laterales](archivos_dwg/baseperforada.dwg)
-
-Este archivo se cortó en mdf de 4mm
-
-
-[tablero de juego](tablero-fichas/tablero%20khuneia.ai)
-
-Este archivo se cortó y grabó en acrílico transparente de 3mm
-
-
-
-### Estructura central del tablero
 
  <div>
 <p style = 'text-align:center;'>
@@ -35,10 +19,14 @@ width="500px">
 </p>
 </div>
 
-
-[estructura central del tablero](archivos_dwg/basesuperior.dwg)
+[estructura externa de los tableros](tablero-fichas/piezas_de_encaje_tablero.dxf)
 
 Este archivo se cortó en mdf de 4mm
+
+
+[tablero de juego](tablero-fichas/tablero%20khuneia.ai)
+
+Este archivo se cortó y grabó en acrílico transparente de 3mm
 
 
 
@@ -66,7 +54,7 @@ width="500px">
 </p>
 </div>
 
-[Caja contenedora del juego](archivos_dxf/baseperforada.dxf)
+[Caja contenedora del juego](packaging/empaque_tablero.dxf)
 
 Este archivo se cortó en cartón duplex blanco de 250 gramos
 
