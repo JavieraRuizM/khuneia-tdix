@@ -5,6 +5,7 @@ Aqui encontrarás los archivos de fabricación de corte láser
 
 ## Tablero
 
+### Tableros laterales
 
 [estructura de los tableros laterales](archivos_dwg/baseperforada.dwg)
 
@@ -22,6 +23,8 @@ Este archivo se cortó y grabó en acrílico transparente de 3mm
 width="500px">
 </p>
 </div>
+
+### Estructura central del tablero
 
 [estructura central del tablero](archivos_dwg/basesuperior.dwg)
 
