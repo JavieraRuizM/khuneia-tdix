@@ -2,6 +2,12 @@
 
 Aquí encontrarás los archivos en formato stl para impresión 3d
 
+ <div>
+<p style = 'text-align:center;'>
+<img src="imagenes/5" 
+width="500px">
+</p>
+</div>
 
 ## Escaleras
 
