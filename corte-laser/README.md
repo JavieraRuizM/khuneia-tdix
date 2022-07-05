@@ -45,6 +45,13 @@ width="500px">
 
 Este archivo se cortó y grabó en mdf de 3mm
 
+ <div>
+<p style = 'text-align:center;'>
+<img src="../imagenes/ficha.jpg" 
+width="500px">
+</p>
+</div>
+
 ## Packaging
 
  <div>
