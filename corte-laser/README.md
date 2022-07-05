@@ -7,6 +7,14 @@ Aqui encontrarás los archivos de fabricación de corte láser
 
 ### Tableros laterales
 
+
+ <div>
+<p style = 'text-align:center;'>
+<img src="../imagenes/4.jpg" 
+width="500px">
+</p>
+</div>
+
 [estructura de los tableros laterales](archivos_dwg/baseperforada.dwg)
 
 Este archivo se cortó en mdf de 4mm
@@ -17,19 +25,8 @@ Este archivo se cortó en mdf de 4mm
 Este archivo se cortó y grabó en acrílico transparente de 3mm
 
 
- <div>
-<p style = 'text-align:center;'>
-<img src="../imagenes/4.jpg" 
-width="500px">
-</p>
-</div>
 
 ### Estructura central del tablero
-
-[estructura central del tablero](archivos_dwg/basesuperior.dwg)
-
-Este archivo se cortó en mdf de 4mm
-
 
  <div>
 <p style = 'text-align:center;'>
@@ -37,6 +34,12 @@ Este archivo se cortó en mdf de 4mm
 width="500px">
 </p>
 </div>
+
+
+[estructura central del tablero](archivos_dwg/basesuperior.dwg)
+
+Este archivo se cortó en mdf de 4mm
+
 
 
 ## Fichas
