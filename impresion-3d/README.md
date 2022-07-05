@@ -4,7 +4,7 @@ Aquí encontrarás los archivos en formato stl para impresión 3d
 
  <div>
 <p style = 'text-align:center;'>
-<img src="imagenes/5" 
+<img src="imagenes/5.jpg" 
 width="500px">
 </p>
 </div>

@@ -32,14 +32,14 @@ En este proyecto se utilizaron diferentes tipos de tecnologías relacionadas a l
 
  <div>
 <p style = 'text-align:center;'>
-<img src="imagenes/2" 
+<img src="imagenes/2.jpg" 
 width="500px">
 </p>
 </div>
 
  <div>
 <p style = 'text-align:center;'>
-<img src="imagenes/6" 
+<img src="imagenes/6.jpg" 
 width="500px">
 </p>
 </div>
