@@ -14,23 +14,12 @@ En este repositorio se encuentran todos los archivos de corte láser e impresió
 Khuneia es un juego de estrategia en el cual, mediante la construcción de un camino de escaleras, debes avanzar por el tablero hasta la salida de este y obtener la piedra filosofal. En este recorrido dos alquimistas compiten por alcanzar el máximo tesoro, la piedra filosofal, que otorga a quien la alcance un poder incomparable. 
 
 A continuación puedes descargar las instrucciones del juego:
-[Instructivo Khuneia](imagenes/instructivo%20khuneia.pdf)
+
+[Instructivo Khuneia PDF](imagenes/instructivo%20khuneia.pdf)
 
 ## Herramientas y Tecnologías Utilizadas
-Para realizar este proyecto se utilizaron diferentes tipos de tecnologías relacionadas tanto a la construcción como al funcionamiento del tótem.
+En este proyecto se utilizaron diferentes tipos de tecnologías relacionadas a la construcción del juego. Se utilizó la cortadora láser para obtener una mayor precisión y velocidad de producción en el corte de piezas estructurales del juego como por ejemplo, el tablero. Por otro lado, se utilizó una impresora 3d para realizar piezas claves del juego como lo son las escaleras y los peones. 
 
-En cuanto a la construcción se utilizó la cortadora láser para cortar con mayor precisión piezas que ordenan la estructura del tótem y el mecanismo interior similar a un carrete de hilo que permite el movimiento de las placas de papel.  En este repositorio se encuentran los archivos de corte correspondientes a cada una de las piezas. 
-
-Para el funcionamiento del tótem se utilizaron 
-1. 2 placas de programación Arduino UNO R3
-2. Fuente de poder con capacidad de transformar la corriente alterna (220V) a corriente continua (12V)
-3. 2 Drivers BL-TB6560-V2.0 que funcionan como unión entre el arduino y el motor.
-4. 2 Protoboards
-5. 2 motores stepper NEMA 23
-6. 1 motor stepper 28byj-48 
-7. pulsadores
-8. Resistencias, cableado
-9. Software Arduino, programación en lenguaje C++
 
 ## Galería de Imágenes
 
