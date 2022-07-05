@@ -41,16 +41,18 @@ width="500px">
 
 ## Fichas
 
-[Fichas ocultas](tablero-fichas/fichas.ai)
-
-Este archivo se cortó y grabó en mdf de 3mm
-
  <div>
 <p style = 'text-align:center;'>
 <img src="../imagenes/ficha.jpg" 
 width="500px">
 </p>
 </div>
+
+[Fichas ocultas](tablero-fichas/fichas.ai)
+
+Este archivo se cortó y grabó en mdf de 3mm
+
+
 
 ## Packaging
 
