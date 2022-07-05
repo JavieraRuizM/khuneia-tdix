@@ -23,9 +23,9 @@ En este proyecto se utilizaron diferentes tipos de tecnologías relacionadas a l
 
 ## Estructura de Carpetas del repositorio
  
-[Arvhivos de impresión 3d](https://javieraruizm.github.io/documentacion-proyectomodulo2-tdix/cam/)
+[Arvhivos de impresión 3d](https://javieraruizm.github.io/khuneia-tdix/impresion-3d)
 
-[Arvhivos de corte láser](https://javieraruizm.github.io/documentacion-proyectomodulo2-tdix/cam/)
+[Arvhivos de corte láser](https://javieraruizm.github.io/documentacion-proyectomodulo2-tdix/corte-laser)
 
 
 ## Galería de Imágenes
