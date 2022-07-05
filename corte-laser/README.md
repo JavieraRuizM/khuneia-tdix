@@ -18,7 +18,7 @@ Este archivo se cortó y grabó en acrílico transparente de 3mm
 
  <div>
 <p style = 'text-align:center;'>
-<img src="imagenes/4.jpg" 
+<img src="../imagenes/4.jpg" 
 width="500px">
 </p>
 </div>
@@ -30,7 +30,7 @@ Este archivo se cortó en mdf de 4mm
 
  <div>
 <p style = 'text-align:center;'>
-<img src="imagenes/3.jpg" 
+<img src="../imagenes/3.jpg" 
 width="500px">
 </p>
 </div>
@@ -46,7 +46,7 @@ Este archivo se cortó y grabó en mdf de 3mm
 
  <div>
 <p style = 'text-align:center;'>
-<img src="imagenes/1.jpg" 
+<img src="../imagenes/1.jpg" 
 width="500px">
 </p>
 </div>
