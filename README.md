@@ -21,6 +21,13 @@ A continuación puedes descargar las instrucciones del juego:
 En este proyecto se utilizaron diferentes tipos de tecnologías relacionadas a la construcción del juego. Se utilizó la cortadora láser para obtener una mayor precisión y velocidad de producción en el corte de piezas estructurales del juego como por ejemplo, el tablero. Por otro lado, se utilizó una impresora 3d para realizar piezas claves del juego como lo son las escaleras y los peones. 
 
 
+## Estructura de Carpetas del repositorio
+ 
+[Arvhivos de impresión 3d](https://javieraruizm.github.io/documentacion-proyectomodulo2-tdix/cam/)
+
+[Arvhivos de corte láser](https://javieraruizm.github.io/documentacion-proyectomodulo2-tdix/cam/)
+
+
 ## Galería de Imágenes
 
  <div>
@@ -65,12 +72,6 @@ src="https://www.youtube.com/embed/GYJYaCNpLs8">
 
 En esta carpeta se encuentran los archivos de corte láser, junto con las configuraciones y calibraciones así como máquinas empleadas.
 
-[CAD](https://javieraruizm.github.io/documentacion-proyectomodulo2-tdix/cad/)
 
-En esta carpeta se encuentra el modelo del tótem realizado en el programa fusión 360
-
-[INO](https://javieraruizm.github.io/documentacion-proyectomodulo2-tdix/ino/)
-
-En esta carpeta se incluyen todas las especificaciones del circuito de arduino y los códigos para el funcionamiento de los motores. 
 
 
