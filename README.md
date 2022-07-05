@@ -51,26 +51,12 @@ En este proyecto se utilizaron diferentes tipos de tecnologías relacionadas a l
 
 <br>
 
-## Registro en video
-
-<div>
-<p style = 'text-align:center;'>
-<iframe width="600" height = "420"
-src="https://www.youtube.com/embed/GYJYaCNpLs8">
-</iframe>
-</p>
-</div>
 
 
 
 
 
 
-## Estructura de Carpetas
- 
-[CAM](https://javieraruizm.github.io/documentacion-proyectomodulo2-tdix/cam/)
-
-En esta carpeta se encuentran los archivos de corte láser, junto con las configuraciones y calibraciones así como máquinas empleadas.
 
 
 
