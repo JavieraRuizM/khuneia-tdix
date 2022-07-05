@@ -14,14 +14,14 @@ Este archivo se cortó en mdf de 4mm
 Este archivo se cortó en mdf de 4mm
 
 
-[tablero de juego](archivos_dwg/carrete.dwg)
+[tablero de juego](tablero-fichas/tablero%20khuneia.ai)
 
 Este archivo se cortó y grabó en acrílico transparente de 3mm
 
 
 ## Fichas
 
-[Fichas ocultas](archivos_dxf/baseperforada.dxf)
+[Fichas ocultas](tablero-fichas/fichas.ai)
 
 Este archivo se cortó y grabó en mdf de 3mm
 
@@ -31,6 +31,6 @@ Este archivo se cortó y grabó en mdf de 3mm
 
 Este archivo se cortó en cartón duplex blanco de 250 gramos
 
-[Gráfica de la caja contenedora del juego](archivos_dxf/baseperforada.dxf)
+[Gráfica de la caja contenedora del juego](packaging/diseno-exterior-caja.ai)
 
 Este archivo se corto y grabó en carton kraft de 200gr
