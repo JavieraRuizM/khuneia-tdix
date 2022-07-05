@@ -1,17 +1,19 @@
-# cad
+# Archivos de impresión 3d
 
-Aquí encontrarás el modelo del tótem realizado en el programa fusión 360
+Aquí encontrarás los archivos en formato stl para impresión 3d
 
- <div>
-<p style = 'text-align:center;'>
-<img src="estructura1.png" alt="Foto Representativa del proyecto" width="500px">
-</p>
-</div>
- <div>
-<p style = 'text-align:center;'>
-<img src="estructura2.png" alt="Foto Representativa del proyecto" width="500px">
-</p>
-</div>
 
-## Descargar Archivo Fusión 360
-[Archivo Fusión 360](estructuratotem.dxf)
+## Escaleras
+
+[Escalera frontal](escaleras/escalera-frontal.stl)
+
+[Escalera 180°](escaleras/escalera180.stl)
+
+[Escaleras laterales](escaleras/escalera-lateral.stl)
+
+
+## Dados y personajes
+
+[Dados](dados-personajes/dados.stl)
+
+[Personajes](dados-personajes/alquimista.stl)
