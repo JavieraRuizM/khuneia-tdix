@@ -8,11 +8,13 @@
 <br>
 <br>
 
-En este repositorio se encuentra la documentación relacionada al proyecto *"Extensión en holgura como origen y lienzo de transparencias proyectadas"*, realizado en el taller de Diseño de Interacción 2022 por Luciana Jorquera, Maite Aranda y Javiera Ruiz. 
+En este repositorio se encuentran todos los archivos de corte láser e impresión 3d que permiten la reproducción del juego de mesa Khuneia, realizado como proyecto final para el Taller de Diseño de Interacción 2022 por Luciana Jorquera, Paulina Zúñiga, Martina Vásquez, Maite Aranda y Javiera Ruiz. 
 
 ## Descripción general del proyecto
-En la búsqueda de gestos en nuestro entorno, cada una de nosotras observo diferentes acontecimientos y trajo consigo croquis los cuales mostraban lo visto. Mirando el material recopilado pudimos notar que uno de los conceptos que coincidieron en nuestros dibujos fue el de la expansión…este no se mostraba necesariamente de forma explícita, sin embargo, en repetidas ocasiones pudimos ver situaciones en las que se manifestaba esta expansión, tanto en animales, plantas, objetos, luces y sombras.
-El tótem pretende ser una manifestación de esta expansión, desde su nacimiento hasta su desaparición. La apertura, la proyección y flujo de las luces buscan mostrar en acontecer de la expansión en este objeto que será controlado por el observador.
+Khuneia es un juego de estrategia en el cual, mediante la construcción de un camino de escaleras, debes avanzar por el tablero hasta la salida de este y obtener la piedra filosofal. En este recorrido dos alquimistas compiten por alcanzar el máximo tesoro, la piedra filosofal, que otorga a quien la alcance un poder incomparable. 
+
+A continuación puedes descargar las instrucciones del juego:
+[Instructivo Khuneia](imagenes/instructivo%20khuneia.pdf)
 
 ## Herramientas y Tecnologías Utilizadas
 Para realizar este proyecto se utilizaron diferentes tipos de tecnologías relacionadas tanto a la construcción como al funcionamiento del tótem.
