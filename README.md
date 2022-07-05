@@ -1,8 +1,8 @@
-# Extensión en holgura como origen y lienzo de transparencias proyectadas
+# Khuneia 
 
  <div>
 <p style = 'text-align:center;'>
-<img src="imagenes/totem1.jpg" alt="Foto Representativa del proyecto" width="500px">
+<img src="imagenes/khuneia1.png" alt="imágen gráfica del juego" width="500px">
 </p>
 </div>
 <br>
